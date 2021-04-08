@@ -1,157 +1,157 @@
-,overall_rank,country_name,score
-0,1,Finland,7.769
-1,2,Denmark,7.6
-2,3,Norway,7.553999999999999
-3,4,Iceland,7.494
-4,5,Netherlands,7.4879999999999995
-5,6,Switzerland,7.48
-6,7,Sweden,7.343
-7,8,New Zealand,7.307
-8,9,Canada,7.278
-9,10,Austria,7.246
-10,11,Australia,7.228
-11,12,Costa Rica,7.167000000000001
-12,13,Israel,7.138999999999999
-13,14,Luxembourg,7.09
-14,15,United Kingdom,7.053999999999999
-15,16,Ireland,7.021
-16,17,Germany,6.985
-17,18,Belgium,6.922999999999999
-18,19,United States,6.892
-19,20,Czech Republic,6.852
-20,21,United Arab Emirates,6.825
-21,22,Malta,6.726
-22,23,Mexico,6.595
-23,24,France,6.5920000000000005
-24,25,Taiwan,6.446000000000001
-25,26,Chile,6.444
-26,27,Guatemala,6.436
-27,28,Saudi Arabia,6.375
-28,29,Qatar,6.374
-29,30,Spain,6.354
-30,31,Panama,6.321000000000001
-31,32,Brazil,6.3
-32,33,Uruguay,6.292999999999999
-33,34,Singapore,6.2620000000000005
-34,35,El Salvador,6.252999999999999
-35,36,Italy,6.223
-36,37,Bahrain,6.199
-37,38,Slovakia,6.1979999999999995
-38,39,Trinidad & Tobago,6.192
-39,40,Poland,6.182
-40,41,Uzbekistan,6.1739999999999995
-41,42,Lithuania,6.149
-42,43,Colombia,6.125
-43,44,Slovenia,6.117999999999999
-44,45,Nicaragua,6.105
-45,46,Kosovo,6.1
-46,47,Argentina,6.086
-47,48,Romania,6.07
-48,49,Cyprus,6.046
-49,50,Ecuador,6.028
-50,51,Kuwait,6.021
-51,52,Thailand,6.007999999999999
-52,53,Latvia,5.94
-53,54,South Korea,5.895
-54,55,Estonia,5.893
-55,56,Jamaica,5.89
-56,57,Mauritius,5.888
-57,58,Japan,5.886
-58,59,Honduras,5.86
-59,60,Kazakhstan,5.809
-60,61,Bolivia,5.779
-61,62,Hungary,5.757999999999999
-62,63,Paraguay,5.742999999999999
-63,64,Northern Cyprus,5.718
-64,65,Peru,5.697
-65,66,Portugal,5.693
-66,67,Pakistan,5.653
-67,68,Russia,5.648
-68,69,Philippines,5.631
-69,70,Serbia,5.603
-70,71,Moldova,5.529
-71,72,Libya,5.525
-72,73,Montenegro,5.523
-73,74,Tajikistan,5.4670000000000005
-74,75,Croatia,5.432
-75,76,Hong Kong,5.43
-76,77,Dominican Republic,5.425
-77,78,Bosnia and Herzegovina,5.386
-78,79,Turkey,5.372999999999999
-79,80,Malaysia,5.3389999999999995
-80,81,Belarus,5.3229999999999995
-81,82,Greece,5.287000000000001
-82,83,Mongolia,5.285
-83,84,North Macedonia,5.274
-84,85,Nigeria,5.265
-85,86,Kyrgyzstan,5.261
-86,87,Turkmenistan,5.247000000000001
-87,88,Algeria,5.211
-88,89,Morocco,5.207999999999999
-89,90,Azerbaijan,5.207999999999999
-90,91,Lebanon,5.197
-91,92,Indonesia,5.192
-92,93,China,5.191
-93,94,Vietnam,5.175
-94,95,Bhutan,5.082
-95,96,Cameroon,5.044
-96,97,Bulgaria,5.011
-97,98,Ghana,4.996
-98,99,Ivory Coast,4.944
-99,100,Nepal,4.913
-100,101,Jordan,4.906000000000001
-101,102,Benin,4.883
-102,103,Congo (Brazzaville),4.812
-103,104,Gabon,4.7989999999999995
-104,105,Laos,4.796
-105,106,South Africa,4.7219999999999995
-106,107,Albania,4.718999999999999
-107,108,Venezuela,4.707
-108,109,Cambodia,4.7
-109,110,Palestinian Territories,4.696000000000001
-110,111,Senegal,4.681
-111,112,Somalia,4.668
-112,113,Namibia,4.638999999999999
-113,114,Niger,4.628
-114,115,Burkina Faso,4.587
-115,116,Armenia,4.559
-116,117,Iran,4.548
-117,118,Guinea,4.534
-118,119,Georgia,4.519
-119,120,Gambia,4.516
-120,121,Kenya,4.5089999999999995
-121,122,Mauritania,4.49
-122,123,Mozambique,4.466
-123,124,Tunisia,4.461
-124,125,Bangladesh,4.456
-125,126,Iraq,4.437
-126,127,Congo (Kinshasa),4.418
-127,128,Mali,4.39
-128,129,Sierra Leone,4.374
-129,130,Sri Lanka,4.3660000000000005
-130,131,Myanmar,4.36
-131,132,Chad,4.35
-132,133,Ukraine,4.332
-133,134,Ethiopia,4.2860000000000005
-134,135,Swaziland,4.212
-135,136,Uganda,4.189
-136,137,Egypt,4.166
-137,138,Zambia,4.107
-138,139,Togo,4.085
-139,140,India,4.015
-140,141,Liberia,3.975
-141,142,Comoros,3.9730000000000003
-142,143,Madagascar,3.9330000000000003
-143,144,Lesotho,3.802
-144,145,Burundi,3.775
-145,146,Zimbabwe,3.6630000000000003
-146,147,Haiti,3.597
-147,148,Botswana,3.488
-148,149,Syria,3.4619999999999997
-149,150,Malawi,3.41
-150,151,Yemen,3.38
-151,152,Rwanda,3.3339999999999996
-152,153,Tanzania,3.2310000000000003
-153,154,Afghanistan,3.2030000000000003
-154,155,Central African Republic,3.083
-155,156,South Sudan,2.853
+overall_rank,country_name,score
+1,Finland,7.769
+2,Denmark,7.6
+3,Norway,7.553999999999999
+4,Iceland,7.494
+5,Netherlands,7.4879999999999995
+6,Switzerland,7.48
+7,Sweden,7.343
+8,New Zealand,7.307
+9,Canada,7.278
+10,Austria,7.246
+11,Australia,7.228
+12,Costa Rica,7.167000000000001
+13,Israel,7.138999999999999
+14,Luxembourg,7.09
+15,United Kingdom,7.053999999999999
+16,Ireland,7.021
+17,Germany,6.985
+18,Belgium,6.922999999999999
+19,United States,6.892
+20,Czech Republic,6.852
+21,United Arab Emirates,6.825
+22,Malta,6.726
+23,Mexico,6.595
+24,France,6.5920000000000005
+25,Taiwan,6.446000000000001
+26,Chile,6.444
+27,Guatemala,6.436
+28,Saudi Arabia,6.375
+29,Qatar,6.374
+30,Spain,6.354
+31,Panama,6.321000000000001
+32,Brazil,6.3
+33,Uruguay,6.292999999999999
+34,Singapore,6.2620000000000005
+35,El Salvador,6.252999999999999
+36,Italy,6.223
+37,Bahrain,6.199
+38,Slovakia,6.1979999999999995
+39,Trinidad & Tobago,6.192
+40,Poland,6.182
+41,Uzbekistan,6.1739999999999995
+42,Lithuania,6.149
+43,Colombia,6.125
+44,Slovenia,6.117999999999999
+45,Nicaragua,6.105
+46,Kosovo,6.1
+47,Argentina,6.086
+48,Romania,6.07
+49,Cyprus,6.046
+50,Ecuador,6.028
+51,Kuwait,6.021
+52,Thailand,6.007999999999999
+53,Latvia,5.94
+54,South Korea,5.895
+55,Estonia,5.893
+56,Jamaica,5.89
+57,Mauritius,5.888
+58,Japan,5.886
+59,Honduras,5.86
+60,Kazakhstan,5.809
+61,Bolivia,5.779
+62,Hungary,5.757999999999999
+63,Paraguay,5.742999999999999
+64,Northern Cyprus,5.718
+65,Peru,5.697
+66,Portugal,5.693
+67,Pakistan,5.653
+68,Russia,5.648
+69,Philippines,5.631
+70,Serbia,5.603
+71,Moldova,5.529
+72,Libya,5.525
+73,Montenegro,5.523
+74,Tajikistan,5.4670000000000005
+75,Croatia,5.432
+76,Hong Kong,5.43
+77,Dominican Republic,5.425
+78,Bosnia and Herzegovina,5.386
+79,Turkey,5.372999999999999
+80,Malaysia,5.3389999999999995
+81,Belarus,5.3229999999999995
+82,Greece,5.287000000000001
+83,Mongolia,5.285
+84,North Macedonia,5.274
+85,Nigeria,5.265
+86,Kyrgyzstan,5.261
+87,Turkmenistan,5.247000000000001
+88,Algeria,5.211
+89,Morocco,5.207999999999999
+90,Azerbaijan,5.207999999999999
+91,Lebanon,5.197
+92,Indonesia,5.192
+93,China,5.191
+94,Vietnam,5.175
+95,Bhutan,5.082
+96,Cameroon,5.044
+97,Bulgaria,5.011
+98,Ghana,4.996
+99,Ivory Coast,4.944
+100,Nepal,4.913
+101,Jordan,4.906000000000001
+102,Benin,4.883
+103,Congo (Brazzaville),4.812
+104,Gabon,4.7989999999999995
+105,Laos,4.796
+106,South Africa,4.7219999999999995
+107,Albania,4.718999999999999
+108,Venezuela,4.707
+109,Cambodia,4.7
+110,Palestinian Territories,4.696000000000001
+111,Senegal,4.681
+112,Somalia,4.668
+113,Namibia,4.638999999999999
+114,Niger,4.628
+115,Burkina Faso,4.587
+116,Armenia,4.559
+117,Iran,4.548
+118,Guinea,4.534
+119,Georgia,4.519
+120,Gambia,4.516
+121,Kenya,4.5089999999999995
+122,Mauritania,4.49
+123,Mozambique,4.466
+124,Tunisia,4.461
+125,Bangladesh,4.456
+126,Iraq,4.437
+127,Congo (Kinshasa),4.418
+128,Mali,4.39
+129,Sierra Leone,4.374
+130,Sri Lanka,4.3660000000000005
+131,Myanmar,4.36
+132,Chad,4.35
+133,Ukraine,4.332
+134,Ethiopia,4.2860000000000005
+135,Swaziland,4.212
+136,Uganda,4.189
+137,Egypt,4.166
+138,Zambia,4.107
+139,Togo,4.085
+140,India,4.015
+141,Liberia,3.975
+142,Comoros,3.9730000000000003
+143,Madagascar,3.9330000000000003
+144,Lesotho,3.802
+145,Burundi,3.775
+146,Zimbabwe,3.6630000000000003
+147,Haiti,3.597
+148,Botswana,3.488
+149,Syria,3.4619999999999997
+150,Malawi,3.41
+151,Yemen,3.38
+152,Rwanda,3.3339999999999996
+153,Tanzania,3.2310000000000003
+154,Afghanistan,3.2030000000000003
+155,Central African Republic,3.083
+156,South Sudan,2.853
