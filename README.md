@@ -38,23 +38,34 @@ new_world_pop_df.head()
 3b) new_world_pop_df.to_csv('world_population.csv')
 
 4) Create ERD at app.quickdatabasediagrams.com
-4a) 
-
-happiness
--
-overall_rank INT
-country_name VARCHAR(30)
-score INT
--
-
-population
--
-country_name VARCHAR(30) FK >- happiness.country_name
-2019_population INT
--
 
 
 
 
+								5) Load
 
+5a) Create tables from csv files "world_happiness" and "world_population".
 
+5b) CREATE TABLE "happiness" (
+    "overall_rank" INT   NOT NULL,
+    "country_name" VARCHAR(30)   NOT NULL,
+    "score" numeric NOT NULL
+);
+
+5c) CREATE TABLE "population" (
+    "country_name" VARCHAR(100)   NOT NULL,
+    "2019_population" numeric NULL
+);
+
+5d) visualize each table
+
+5e) select * from happiness
+5f) select * from population
+
+5g) join the two tables together, round the score to two decimal places, and order by the overall happiness rank.
+
+5h) select happiness.country_name, happiness.overall_rank, round(happiness.score,2) as score, population."2019_population"
+from happiness
+left join population
+on population.country_name = happiness.country_name
+order by happiness.overall_rank
