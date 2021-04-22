@@ -69,3 +69,5 @@ from happiness
 left join population
 on population.country_name = happiness.country_name
 order by happiness.overall_rank
+
+5i) Loaded transformed tables to PgAdmin 4
